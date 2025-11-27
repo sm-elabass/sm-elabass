@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sidi Mohamed EL ABASS  
+# Sidi Mohamed EL ABASS  
 ### Junior Data & AI Analyst | Supply Chain & Procurement | Power BI | Python | SQL | Snowflake
 
 Bienvenue sur mon portfolio GitHub !  
