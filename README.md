@@ -64,6 +64,19 @@ Permet une analyse ciblée par région / pays / ville.
 Focus sur une zone spécifique (ici Los Angeles). Tous les KPI, cartes et tendances se recalculent automatiquement.  
 Ici, le **Current Month Return est positif**, ce qui affiche l’indicateur en vert car l’objectif est dépassé.
 
+## Télécharger le projet Power BI (fichier .pbix)
+
+Vous pouvez télécharger mon rapport complet Power BI pour analyser :
+
+- La structure du modèle (relations)
+- Les mesures DAX utilisées
+- Les transformations Power Query
+- Les interactions entre visualisations
+- La logique business appliquée
+
+**Télécharger le fichier Power BI :**  
+📄 [Projet_ELABASS.pbix](https://github.com/sm-elabass/sm-elabass/raw/main/powerbi/Projet_ELABASS.pbix)
+
 ---
 
 # Mon objectif GitHub
@@ -83,8 +96,14 @@ Des scripts et outils d'automatisation
 
 ---
 
-# Contact  
-📩 LinkedIn : https://www.linkedin.com/in/sidi-mohamed-el-abass/  
-📄 CV : [Télécharger ici](./CV_SidiMohamed.pdf)
+# Liens utiles
+
+**LinkedIn** : https://www.linkedin.com/in/sidi-mohamed-el-abass/  
+
+**Télécharger mon CV :**  
+ [Cliquez ici pour télécharger le fichier PDF](https://github.com/sm-elabass/sm-elabass/raw/main/CV_SidiMohamed.pdf)
+
+**Mail :** elabass.sidimohamed@icloud.com
+
 
 Merci pour votre visite 😊
